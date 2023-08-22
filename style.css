@@ -170,12 +170,6 @@ aside img{
 }
 
 
-@media screen and (min-width: 1024px){
-
-  
-
-  
-}
 @media (min-width: 1024px) and (max-width: 992px){
   .header{
     font-size: 1.5rem;
