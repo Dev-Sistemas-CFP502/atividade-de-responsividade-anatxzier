@@ -92,19 +92,16 @@ aside {
   width: 90%;
   overflow: hidden;
   overflow-x:scroll;
-  height: 90vh;
+  height: 20rem;
   align-items: center;
+  border-radius: 10%;
 }
 
-.scroll img{
-  border-radius: 3rem;
-}
 
 aside img{
   width: 98%;
 }
 
-/* width */
 ::-webkit-scrollbar {
   width: 20px;
 
